@@ -1,6 +1,6 @@
 # Keyword Extraction Python Code
 
-Welcome to this repository! Here, you'll find Python code that's designed to extract the most important words from various types of texts, articles, and scientific research papers. The process of keyword extraction involves identifying key words or phrases that capture the essence of the content, making it easier to understand the main themes and topics of an article.
+Welcome to this repository! Here, you'll find Python code that's designed to extract the most important words from various types of texts, articles, and scientific research papers. The code utilizes TF-IDF (Term Frequency-Inverse Document Frequency) technology for keyword extraction, along with a custom text processing function to enhance the accuracy of keyword identification.
 
 ## Getting Started
 
